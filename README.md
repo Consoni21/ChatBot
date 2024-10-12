@@ -9,5 +9,5 @@ Legal, né?
 
 ## Autor
 
-- [@octokatherine](https://www.github.com/Consoni21)
+- [@Consoni](https://www.github.com/Consoni21)
 
